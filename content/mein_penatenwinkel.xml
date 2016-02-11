@@ -28,7 +28,7 @@
 <text>
 <front>
 <div type = "Preface">    
-    <h1>Inhalt.</h1>
+    <head>Inhalt.</head>
 <pb n="0001" pdf="0019"/>
 	In einem seiner lezten Bücher sagt Rosegger, daß,
 wenn wir das fünfzigste Jahr überschreiten, unser
@@ -106,7 +106,7 @@ sie allen lebendig werden.
 </front>
 <body>
 <div type = "chapter">
-<h1>Clara Schumann.</h1>
+<head>Clara Schumann.</head>
 <pb n="0006" pdf="0024"/>
 <pb n="0007" pdf="0025"/>
 Als ich sie zum ersten Male hören sollte, war ich
@@ -483,7 +483,7 @@ der Erde, und nie wieder Tag!
 <pb n="0019" pdf="0037"/>
 </div>
 <div type = "chapter">
-    <h1>Großmama.</h1>
+    <head>Großmama.</head>
 <pb n="0020" pdf="0038"/>
 <pb n="0021" pdf="0039"/>
 Von allen meinen Großeltern habe ich nur die Stiefmutter 
@@ -1288,7 +1288,7 @@ Lebensphilosophie.
 <pb n="0047" pdf="0065"/>
 </div>
 <div type ="chapter">
-    <h1>Ernst Moritz Arndt.</h1>
+    <head>Ernst Moritz Arndt.</head>
 <pb n="0048" pdf="0066"/>
 
 <pb n="0049" pdf="0067"/>
@@ -1486,7 +1486,7 @@ Mutter Album:
 <pb n="0055" pdf="0073"/>
 </div>
  <div type = "chapter">  
-<h1>Bernays.</h1>
+<head>Bernays.</head>
 <pb n="0056" pdf="0074"/>
 
 <pb n="0057" pdf="0075"/>
@@ -1971,7 +1971,7 @@ und Verkehrtheiten und Errungenschaften.
 <pb n="0072" pdf="0090"/>
 <pb n="0073" pdf="0091"/></div>
 <div type="chapter">
-<h1>Lang und Maffet.</h1>
+<head>Lang und Maffet.</head>
 <pb n="0074" pdf="0092"/>
 
 <pb n="0075" pdf="0093"/>
@@ -2225,7 +2225,7 @@ Nie wird mein kleines, geschriebenes Monument an eure
 Seelengröße und Aufopferung hinanreichen!
 <pb n="0083" pdf="0101"/></div>
 <div type = "chapter">
-<h1>Unser Fräulchen.</h1>
+<head>Unser Fräulchen.</head>
 <pb n="0084" pdf="0102"/>
 
 <pb n="0085" pdf="0103"/>
@@ -2789,7 +2789,7 @@ schöner gemacht, worauf es geschienen hat!
 </div>
 <div type ="chapter">
     <pb n="0103" pdf="0121"/>
-    <h1>Bunsen.</h1>
+    <head>Bunsen.</head>
 <pb n="0104" pdf="0122"/>
 
 <pb n="0105" pdf="0123"/>
@@ -3352,7 +3352,7 @@ Das ist eine besondere Gabe.
 <pb n="0123" pdf="0141"/></div>
 
 <div type = "chapter">
-    <h1>Perthes.</h1>
+    <head>Perthes.</head>
 <pb n="0124" pdf="0142"/>
 
 <pb n="0125" pdf="0143"/>
@@ -3663,7 +3663,7 @@ wurde!
 <pb n="0135" pdf="0153"/></div>
 
 <div type = "chapter">
-    <h1>Der Glas.</h1>
+    <head>Der Glas.</head>
 <pb n="0136" pdf="0154"/>
 
 <pb n="0137" pdf="0155"/>
@@ -4370,7 +4370,7 @@ so viel geraten hat bei den Erzählungen über mich, statt
 der Wahrheit nachzuforschen.
 <pb n="0159" pdf="0177"/></div>
 <div type = "chapter">
-<h1>Mary Barnes.</h1>
+<head>Mary Barnes.</head>
 <pb n="0160" pdf="0178"/>
 
 
@@ -4672,7 +4672,7 @@ freudloses und opfervolles Leben mitbekommen hatte.
 Gott segne ihr Andenken in allen kommenden Zeiten!
 <pb n="0171" pdf="0189"/></div>
 <div type = "chapter">
-<h1>Die Familie „Valette".</h1>
+<head>Die Familie „Valette".</head>
 <pb n="0172" pdf="0190"/>
 
 <pb n="0173" pdf="0191"/>
@@ -4813,7 +4813,7 @@ vor
 
 <pb n="183" pdf="201"/></div>
 <div type = "chapter">
-<h1>Sohn</h1>
+<head>Sohn</head>
 <pb n="184" pdf="202"/>
 <pb n="185" pdf="203"/>
 Denn Herzensgüte, erleuchtete Herzensgüte, diese allerhöchste menschliche Eigenschaft, 
@@ -5101,7 +5101,7 @@ geistiger Erbschaften und Vorzüge, als Freunde von Künstlern und Gelehrten, al
 schöner und das Leben reich!
 <pb n="199" pdf="217"/></div>
 <div type = "chapter">
-<h1>Weizchen</h1>
+<head>Weizchen</head>
 <pb n="200" pdf="218"/>
 <pb n="201" pdf="219"/>
 In früherer Zeit nahm man an Höfen nur Damen als Kammerfrauen und Kinderfrauen. Und man 
@@ -5478,7 +5478,7 @@ Kräfte früher zu verzehren als es sonst wohl der Fall gewesen wäre.
 </div>
 <div type = "chapter">  
 <pb n="217" pdf="235"/>
-<h1>Frau Baring</h1>
+<head>Frau Baring</head>
 <pb n="218" pdf="236"/> 
 <pb n="219" pdf="237"/>
 Diese edle Seele trat als Hülfe in mein Leben, als es sehr dunkel und sehr schwer wurde. 
@@ -5900,7 +5900,7 @@ und von längst vergangenen
 <div type = "chapter">
 
     <pb n="239" pdf="257"/>
-<h1>Frau Wahler</h1>
+<head>Frau Wahler</head>
 
     <pb n="240" pdf="258"/>
 
@@ -6188,7 +6188,7 @@ Abendwind leise über den Rhein hinkräuselte.
 <pb n="254" pdf="272"/></div>
 <div type = "chapter">
     <pb n="255" pdf="273"/>
-<h1>Meine Lehrer</h1>
+<head>Meine Lehrer</head>
 <pb n="256" pdf="274"/>
 
 <pb n="257" pdf="275"/>
@@ -6751,7 +6751,7 @@ begreift.
 <pb n="282" pdf="300"/></div>
 <div type = "chapter">
     <pb n="283" pdf="301"/>
-<h1>Marie</h1>
+<head>Marie</head>
 <pb n="284" pdf="302"/>
 
 <pb n="285" pdf="303"/>
@@ -7014,7 +7014,7 @@ und singen, wie nur Engel singen<unclear>,</unclear> und der Freude leben, der s
 angehörte!</div>
 <div type ="chapter">
     <pb n="297" pdf="315"/>
-<h1>Frau Bachenberg</h1>
+<head>Frau Bachenberg</head>
 <pb n="298" pdf="316"/>
 
 <pb n="299" pdf="317"/>
@@ -7246,7 +7246,7 @@ Gestalten! Kommt um mich her und lasst mich fühlen, dass ihr lebendig geblieben
 wir uns so lieb haben, als wäre nicht ein Tag vergangen!</div>
 <div type = "chapter">
 <pb n="309" pdf="327"/>
-<h1>Mein Bruder Otto</h1>
+<head>Mein Bruder Otto</head>
 <pb n="310" pdf="328"/>
 
 <pb n="311" pdf="329"/>
