@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<?xml-stylesheet type="text/css" href="css/admin-html.css"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <link rel="stylesheet" type="text/css" href="css/admin-html.css"/>
+    <title>TEI Workshop</title>
+  </head>
+  <body>
+    <h1>TEI Workshop Exercise System</h1>
+    <div>
+      <h2>Using the Template</h2>
+      <div>
+	<h2>Editing &#x2026;</h2>
+	<ol>
+	  <li>Find the file
+	  <tt>exercise_template.xml</tt> in the <tt>content/</tt>
+	  directory.</li>
+	  <li>Make a copy of it (named whatever you want) <strong>in the
+	  same <tt>content/</tt> directory!</strong></li>
+	  <li>Open the copy in oXygen</li>
+	  <li>OPTIONAL: put the right metadata in the <tt>&lt;teiHeader></tt>
+	  (after all, your document was not written by Syd &amp; Julia :-)</li>
+	  <li>Transcribe your document into the <tt>&lt;body></tt></li>
+	</ol>
+	<p>Check validity early and often; save early and often.</p>
+      </div>
+      <div>
+	<h3>Viewing &#x2026;</h3>
+	<p>There is <strong>no</strong> one <q>right</q> way to view
+	an encoded file. The following are provided as <em>ideas</em>
+	of how one might like one's TEI file to look.</p>
+	<div>
+	  <h4>Viewing with <em>TEI Boilerplate</em></h4>
+	  <p>We have included a copy of <a href="teibp.html">TEI
+	  Boilerplate</a>, a lightweight system for displaying TEI
+	  documents. While <em>TEI Boilerplate</em> is a wonderful
+	  system, it is in <strong>no</strong> way a definitive
+	  representation of how your file <em>should</em> look (that's
+	  up to you and your project); it's just one group of TEI
+	  encders idea of what you <em>might</em> like.</p>
+	  <p>To use <em>TEI Boilerplate</em>, just open your TEI file
+	  from within a modern browser.</p>
+	</div>
+	<div id="oc">
+	  <h4>Viewing with your own CSS</h4>
+	  <p>We have provided a template CSS2 file that does
+	  <strong>not</strong> produce pretty output, but rather gives
+	  you a place to inserto your own CSS properties and values to
+	  get pretty output. It is called
+	  <tt>tiny_TEI_template.css</tt>. To use it, comment out or
+	  delete the line</p>
+	  <blockquote><tt>&lt;?xml-stylesheet type="text/xsl" href="teibp.xsl"?></tt></blockquote>
+	  <p>wich should be around line 4 or so, and then open your
+	  XML file from within a browser.</p>
+	</div>
+	<div>
+	  <h4>Viewing with supplied CSS</h4>
+	  <p>We have also provided a couple of CSS files intended to
+	  show off various features of TEI files. These CSS files may
+	  or may not be interesting on your file. To try them, follow
+	  the instructions for <a href="#oc">Viewing with your own
+	  CSS</a>, above, and then:</p>
+	  <ol>
+	    <li>find the line <tt>&lt;?xml-stylesheet title="your own CSS"    type="text/css" href="../css/tiny_TEI_template.css" alternate="yes"?></tt>, and replace <q><tt>tiny_TEI_template.css</tt></q> with
+	    <ol>
+	      <li><q><tt>inspect.css</tt></q> for a sort of <q>bird's-eye view</q> of your document</li>
+	      <li><q><tt>ography.css</tt></q> for a quick overview of your contextual information encoding</li>
+	      <li><q><tt>ugly_TEI_template.css</tt></q> for a fast-and-lousy TEI rendering</li>
+	    </ol>
+	    </li>
+	    <li>save your XML file</li>
+	    <li>open your XML file from within a browser</li>
+	  </ol>
+	</div>
+      </div>
+    </div>
+  </body>
+</html>
