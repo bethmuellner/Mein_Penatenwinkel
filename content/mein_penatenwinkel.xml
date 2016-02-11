@@ -3,7 +3,7 @@
 <?xml-model href="../schemas/exercise.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-stylesheet title="TEI Boilerplate" type="text/xsl" href="teibp.xsl"?>
 <tei xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
+ <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Mein Penatenwinkel</title>
@@ -26,12 +26,8 @@
     </teiHeader>
     
 <text>
-
-<newchapter/>
 <front>
-    
-</front>
-<body>
+<div type = "Preface">    
     <h1>Inhalt.</h1>
 <pb n="0001" pdf="0019"/>
 	In einem seiner lezten Bücher sagt Rosegger, daß,
@@ -106,7 +102,10 @@ und lasse das stille Licht auf teure Züge fallen, damit
 sie allen lebendig werden.
 <pb n="0004" pdf="0022"/>
 <pb n="0005" pdf="0023"/>
-<newchapter/>
+</div>
+</front>
+<body>
+<div type = "chapter">
 <h1>Clara Schumann.</h1>
 <pb n="0006" pdf="0024"/>
 <pb n="0007" pdf="0025"/>
@@ -482,8 +481,9 @@ in der Mühle harter Arbeit, dann wurde ich Mutter,
 und dann - - - - wurde es Nacht für mich auf
 der Erde, und nie wieder Tag!
 <pb n="0019" pdf="0037"/>
-<newchapter/>
-<h1>Großmama.</h1>
+</div>
+<div type = "chapter">
+    <h1>Großmama.</h1>
 <pb n="0020" pdf="0038"/>
 <pb n="0021" pdf="0039"/>
 Von allen meinen Großeltern habe ich nur die Stiefmutter 
@@ -1286,8 +1286,9 @@ erschütternd, sondern nur gedankenvoll, ein ganzes Stück
 Lebensphilosophie.
 <pb n="0046" pdf="0064"/>
 <pb n="0047" pdf="0065"/>
-<newchapter/>
-<h1>Ernst Moritz Arndt.</h1>
+</div>
+<div type ="chapter">
+    <h1>Ernst Moritz Arndt.</h1>
 <pb n="0048" pdf="0066"/>
 
 <pb n="0049" pdf="0067"/>
@@ -1483,7 +1484,8 @@ Mutter Album:
 <br/>
 <br/>Bonn, am 23. des Lenzmonds 1853."
 <pb n="0055" pdf="0073"/>
-<newchapter/>
+</div>
+ <div type = "chapter">  
 <h1>Bernays.</h1>
 <pb n="0056" pdf="0074"/>
 
@@ -1967,8 +1969,8 @@ hören, in der heutigen Zeit, mit den heutigen Kämpfen
 und Verkehrtheiten und Errungenschaften.
 <br/>Es wäre der Mühe wert! Er sah tief und weit!
 <pb n="0072" pdf="0090"/>
-<pb n="0073" pdf="0091"/>
-<newchapter/>
+<pb n="0073" pdf="0091"/></div>
+<div type="chapter">
 <h1>Lang und Maffet.</h1>
 <pb n="0074" pdf="0092"/>
 
@@ -2221,8 +2223,8 @@ Gott soll euch reich machen in der Erinnerung an alles,
 was ihr für euren unglücklichen Herrn gewesen seid!
 Nie wird mein kleines, geschriebenes Monument an eure
 Seelengröße und Aufopferung hinanreichen!
-<pb n="0083" pdf="0101"/>
-<newchapter/>
+<pb n="0083" pdf="0101"/></div>
+<div type = "chapter">
 <h1>Unser Fräulchen.</h1>
 <pb n="0084" pdf="0102"/>
 
@@ -2784,9 +2786,10 @@ und Seelenadel, und man bleibt in der Menschen
 Erinnerung wie ein wundervolles Kirchenfenster mit
 sanftem Licht und reichen Farben zurück, das alles
 schöner gemacht, worauf es geschienen hat!
-<pb n="0103" pdf="0121"/>
-<newchapter/>
-<h1>Bunsen.</h1>
+</div>
+<div type ="chapter">
+    <pb n="0103" pdf="0121"/>
+    <h1>Bunsen.</h1>
 <pb n="0104" pdf="0122"/>
 
 <pb n="0105" pdf="0123"/>
@@ -3346,9 +3349,10 @@ sind immer noch viel angenehmer.
 <br/>Im Laufe dieser Aufzeichnungen werde ich noch
 von solchen sprechen, welche andere geistreich machten.
 Das ist eine besondere Gabe.
-<pb n="0123" pdf="0141"/>
-<newchapter/>
-<h1>Perthes.</h1>
+<pb n="0123" pdf="0141"/></div>
+
+<div type = "chapter">
+    <h1>Perthes.</h1>
 <pb n="0124" pdf="0142"/>
 
 <pb n="0125" pdf="0143"/>
@@ -3656,9 +3660,10 @@ sie sonst nicht gewußt hätte, wie unser Gottvertrauen
 zu erhalten und uns zu trösten in all dem schweren
 Leide, das für uns immer fühlbarer und immer tiefer
 wurde!
-<pb n="0135" pdf="0153"/>
-<newchapter/>
-<h1>Der Glas.</h1>
+<pb n="0135" pdf="0153"/></div>
+
+<div type = "chapter">
+    <h1>Der Glas.</h1>
 <pb n="0136" pdf="0154"/>
 
 <pb n="0137" pdf="0155"/>
@@ -4363,8 +4368,8 @@ immer genau kennen ehe man sie beurteilt.
 man wohl nicht darauf gekommen wäre, und daß man
 so viel geraten hat bei den Erzählungen über mich, statt
 der Wahrheit nachzuforschen.
-<pb n="0159" pdf="0177"/>
-<newchapter/>
+<pb n="0159" pdf="0177"/></div>
+<div type = "chapter">
 <h1>Mary Barnes.</h1>
 <pb n="0160" pdf="0178"/>
 
@@ -4665,8 +4670,8 @@ sproß Balsam und da wurde es still und feierlich und
 friedlich. Das war der besondere Segen, den sie in ihr
 freudloses und opfervolles Leben mitbekommen hatte.
 Gott segne ihr Andenken in allen kommenden Zeiten!
-<pb n="0171" pdf="0189"/>
-<newchapter/>
+<pb n="0171" pdf="0189"/></div>
+<div type = "chapter">
 <h1>Die Familie „Valette".</h1>
 <pb n="0172" pdf="0190"/>
 
@@ -4806,8 +4811,8 @@ Gaultier, rue des Saints Péres No. 12,</i> da gingen wir
 auch zu Fuß hin. Ich habe aber nie meine Schüchternheit
 vor
 
-<pb n="183" pdf="201"/>
-<newchapter/>
+<pb n="183" pdf="201"/></div>
+<div type = "chapter">
 <h1>Sohn</h1>
 <pb n="184" pdf="202"/>
 <pb n="185" pdf="203"/>
@@ -5094,25 +5099,10 @@ den Thron! Die <unclear>Mediatisierten</unclear> haben es am besten auf der Erde
 geistiger Erbschaften und Vorzüge, als Freunde von Künstlern und Gelehrten, als wirkliche 
 "Freiherren" auf schönen, waldreichen Gütern. Solch ein Freund wie Sohn macht den Wald 
 schöner und das Leben reich!
-<pb n="199" pdf="217"/>
-<newchapter/>
+<pb n="199" pdf="217"/></div>
+<div type = "chapter">
 <h1>Weizchen</h1>
 <pb n="200" pdf="218"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <pb n="201" pdf="219"/>
 In früherer Zeit nahm man an Höfen nur Damen als Kammerfrauen und Kinderfrauen. Und man 
 tat wohl daran, denn man war der äußersten Diskretion bedürftig, und die Kinder lernten 
@@ -5485,14 +5475,11 @@ vierzehn Jahre alt war, dann zog sie sich zurück mit einer Pension und lebte im
 meiner Großmama, das nun leider nicht mehr ist! Sie war ein Stück Vergangenheit, ein 
 Stück großer und schwerer Erlebnisse, die vielleicht viel dazu beigetragen hatten, ihre 
 Kräfte früher zu verzehren als es sonst wohl der Fall gewesen wäre.
+</div>
+<div type = "chapter">  
 <pb n="217" pdf="235"/>
-<newchapter/>
 <h1>Frau Baring</h1>
 <pb n="218" pdf="236"/> 
-
-
-
-
 <pb n="219" pdf="237"/>
 Diese edle Seele trat als Hülfe in mein Leben, als es sehr dunkel und sehr schwer wurde. 
 Denn die Krankheit im Hause nahm zu, die Winter waren lang und hart, und ich war sehr 
@@ -5909,25 +5896,13 @@ ich wäre es oft gern los gewesen. Es liegt so nahe, wenn einem etwas weh tut, e
 herauszuschneiden oder fortwerfen zu wollen, als ob man sich aus einem bösen Traum mit 
 Gewalt weckte, um nicht mehr so gequält zu werden. 
 und von längst vergangenen
-<pb n="238" pdf="256"/>
-<pb n="239" pdf="257"/>
-<newchapter/>
+<pb n="238" pdf="256"/></div>
+<div type = "chapter">
+
+    <pb n="239" pdf="257"/>
 <h1>Frau Wahler</h1>
-<pb n="240" pdf="258"/>
 
-
-
-
-
-
-
-
-
-
- 
-
-
-
+    <pb n="240" pdf="258"/>
 
 <pb n="241" pdf="259"/>
 Unter dem Titel „Deutsches Glück" und mit verändertem Namen habe ich die liebe Alte 
@@ -6210,9 +6185,9 @@ ich habe ihn unendlich lieb gehabt und entbehre ihn immer noch schmerzlich. Die 
 waren die Vertrauten so vieler Erlebnisse. Ich habe so viel mit ihnen gesprochen. Da war 
 eine Silberpappel vor dem Fenster, die wusste viel und flüsterte davon, wenn der 
 Abendwind leise über den Rhein hinkräuselte. 
-<pb n="254" pdf="272"/>
-<pb n="255" pdf="273"/>
-<newchapter/>
+<pb n="254" pdf="272"/></div>
+<div type = "chapter">
+    <pb n="255" pdf="273"/>
 <h1>Meine Lehrer</h1>
 <pb n="256" pdf="274"/>
 
@@ -6773,9 +6748,9 @@ würden und keine Schablone haben, die wie ein Procrustesbett die Glieder verkü
 sollte auch den Kindern mehr freie Zeit zum Träumen lassen, dass die Natur sie allein 
 unterrichten kann. Sie ist die allergewaltigste Lehrerin, die das Kindergemüt auch immer 
 begreift.
-<pb n="282" pdf="300"/>
-<pb n="283" pdf="301"/>
-<newchapter/>
+<pb n="282" pdf="300"/></div>
+<div type = "chapter">
+    <pb n="283" pdf="301"/>
 <h1>Marie</h1>
 <pb n="284" pdf="302"/>
 
@@ -7036,16 +7011,11 @@ Erde! Sie gehörte dorthin, wo der Jubel nicht durch bitteres Leid zerstört wir
 Licht nur immer größer wird und immer schöner, und sie sich die Engelflügel nicht mehr 
 abzustreifen braucht, um sich der elenden Erde anzupassen. Sie darf strahlen ohne Ende 
 und singen, wie nur Engel singen<unclear>,</unclear> und der Freude leben, der sie 
-angehörte!
-<pb n="297" pdf="315"/>
-<newchapter/>
+angehörte!</div>
+<div type ="chapter">
+    <pb n="297" pdf="315"/>
 <h1>Frau Bachenberg</h1>
 <pb n="298" pdf="316"/>
-
-
-
-
-
 
 <pb n="299" pdf="317"/>
 Sie war nahezu vierzig Jahre lang die Vorsitzende des Frauenvereins für Krankenpflege in 
@@ -7273,13 +7243,11 @@ die den alten Sitzungsaal erhellten. Sie alle haben ihre Stätte in meinem Herze
 lebendiger als auf dem Kirchhof. Denn sie lächeln noch in mein Leben hinein und schweigen 
 nicht, sondern sind so beredt wie immer und so opferfreudig und gut! Ihr lieben 
 Gestalten! Kommt um mich her und lasst mich fühlen, dass ihr lebendig geblieben, und dass 
-wir uns so lieb haben, als wäre nicht ein Tag vergangen!
+wir uns so lieb haben, als wäre nicht ein Tag vergangen!</div>
+<div type = "chapter">
 <pb n="309" pdf="327"/>
-<newchapter/>
 <h1>Mein Bruder Otto</h1>
 <pb n="310" pdf="328"/>
-
-
 
 <pb n="311" pdf="329"/>
 Freitag, den 22. November 2850, trat das ängstlich erwartete Kleinod in diese 
@@ -8279,7 +8247,7 @@ wir, anstatt unseres Lieblings, die entseelte Leiche vor uns hatten.
 <br/>
 Möge es Dir erspart werden, solche Erfahrungen zu machen, und möge Dir der Himmel einen 
 Sohn schenken, der unserm heimgegangenen Kinde an Geist ähnlich sei, jedoch ohne die 
-traurige Zugabe eines kranken Körpers!
+traurige Zugabe eines kranken Körpers!</div>
 </body>
 </text>
 </tei>
