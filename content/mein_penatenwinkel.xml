@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<pb n="0001" pdf="0019"/>
+<?xml-model href="../schemas/exercise.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schemas/exercise.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet title="TEI Boilerplate" type="text/xsl" href="teibp.xsl"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mein Penatenwinkel</title>
+                <author>
+                    <persName>Carmen Sylva</persName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher><!-- publisher here --></publisher>
+                <availability>
+                    <ab><!-- copyright or copyleft information here --></ab>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <!-- source information here; better yet, use a <biblStruct> instead -->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+<text>
+
 <newchapter/>
-<h1>Inhalt.</h1>
+<front>
+    
+</front>
+<body>
+    <h1>Inhalt.</h1>
+<pb n="0001" pdf="0019"/>
 	In einem seiner lezten Bücher sagt Rosegger, daß,
 wenn wir das fünfzigste Jahr überschreiten, unser
 herz meistens ein großer Friedhof wird. 
@@ -1997,7 +2029,7 @@ eine hieß Corcilius. Unser Großonkel, der große Reisende,
 machte sich ein Vergnügen daraus, alle Namen zu 
 <pb n="0077" pdf="0095"/>
 verdrehen. Lang hieß Kurz, Klein hieß Groß, Schäfer hieß
-Haas, Corcilius <i>„Carcilaso de la Vega"</i> </unclear>2c</unclear>. Einen
+Haas, Corcilius <i>„Carcilaso de la Vega"</i> <unclear>2c</unclear>. Einen
 Jäger hatten wir, dessen Familie seit nahezu zweihundert
 Jahren immer Jäger bei uns gewesen waren. Viele
 haben das fünfzigjährige Jubiläum bei uns gefeiert.
@@ -5748,7 +5780,7 @@ damit gesättigt, so dass ich dazwischen lieber etwas anderes dachte, und so ver
 notgedrungen auf die Feder, mit der ich bereits allerhand Versuche gemacht hatte, und nun 
 eine Anzahl schlechter Gedichte verfasste, die alle in den Ofen wanderten als ich reifer 
 wurde. Mit vierzehn Jahren schrieb ich mein erstes Drama: „Sechsundzwanzig Personen, 
-Feuersbrunst, Wahnsinn, Totschlag <unclear>", zum totlachen! Ich fand es einmal nach 
+Feuersbrunst, Wahnsinn, Totschlag <unclear>2C.</unclear>", zum totlachen! Ich fand es einmal nach 
 Jahren und amüsierte mich sehr darüber. 
 <br/>
 <pb n="232" pdf="250"/>
@@ -8248,5 +8280,6 @@ wir, anstatt unseres Lieblings, die entseelte Leiche vor uns hatten.
 Möge es Dir erspart werden, solche Erfahrungen zu machen, und möge Dir der Himmel einen 
 Sohn schenken, der unserm heimgegangenen Kinde an Geist ähnlich sei, jedoch ohne die 
 traurige Zugabe eines kranken Körpers!
-
-
+</body>
+</text>
+</tei>
