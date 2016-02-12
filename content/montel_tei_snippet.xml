@@ -1,0 +1,282 @@
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Montel</title>
+                <author>
+                    <persName>Gladys Fornell</persName>
+                </author>
+            </titleStmt>
+            <!-- <respStmt> will go here -->
+            <editionStmt>
+                <edition><date/></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <!-- How do I note this novel was never published, but still credit Mark Paterson, who I believe made the edits on this version? -->
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+            <!-- I've looked at several source descriptions and am a little confused exactly what information can go here -->
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <quotation marks="all">
+                    <p>All quotation marks have been retained per the original manuscript.
+                        <!-- Is this what I put here? --></p>
+                </quotation>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="philip_montel">
+                        <persName>
+                            <forename type="first">Philip</forename>
+                            <surname>Montel</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="alice_montel">
+                        <persName>
+                            <forename type="first">Alice</forename>
+                            <surname type="birth">Huntington</surname>
+                            <surname type="married">Montel</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="thorvald_eckdahl">
+                        <persName>
+                            <forename>Thorvald</forename>
+                            <surname>Eckdahl</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="pat_chelsey">
+                        <persName>
+                            <forename type="first" full="yes">Patrick</forename>
+                            <forename type="first" full="abb">Pat</forename>
+                            <forename type="middle">Bryan</forename>
+                            <surname>Chelsey</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="annie_lundeen">
+                        <persName>
+                            <forename>Annie</forename>
+                            <surname>Lundeen</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="grace_shannon">
+                        <persName>
+                            <forename>Grace</forename>
+                            <surname>Shannon</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="margaret_drake">
+                        <persName>
+                            <forename>Margaret</forename>
+                            <surname>Drake</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="jeanne_cobbe">
+                        <persName>
+                            <forename>Jeanne</forename>
+                            <surname>Cobbe</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="gordon_faust">
+                        <persName>
+                            <forename>Gordon</forename>
+                            <surname>Faust</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="jacob_montel">
+                        <persName>
+                            <forename>Jacob</forename>
+                            <surname>Montel</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="ingeborg_sondegaard">
+                        <persName>
+                            <forename>Ingeborg</forename>
+                            <surname>Sondegaard</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="jane_montel">
+                        <persName>
+                            <forename>Jane</forename>
+                            <surname>Montel</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="grandma_sondegaard">
+                        <persName>
+                            <addName type="honorific">Grandma</addName>
+                            <surname>Sondegaard</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="bessie">
+                        <persName>
+                            <forename>Bessie</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="eric_sondegaard">
+                        <persName>
+                            <forename>Eric</forename>
+                            <surname>Sondegaard</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="lucie_montel">
+                        <persName>
+                            <forename>Lucie</forename>
+                            <surname type="birth">Montel</surname>
+                            <surname type="married">Eckdahl</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="corrinne">
+                        <persName>
+                            <forename>Corrinne</forename>
+                        </persName>
+                    </person>
+                    <person xml:id="dick_huntington">
+                        <persName>
+                            <forename full="yes">Richard</forename>
+                            <forename full="abb">Dick</forename>
+                            <surname>Huntington</surname>
+                        </persName>
+                    </person>
+                    <listRelation type="personal">
+                        <relation name="spouse" mutual="#alice_montel #philip_montel"/>
+                        <relation name="parent" active="#philip_montel #alice_montel"
+                            passive="#jane_montel"/>
+                        <relation name="siblings" mutual="#alice_montel #dick_huntington"/>
+                        <relation name="siblings" mutual="#philip_montel #lucie_montel"/>
+                        <relation name="grandparent" active="#grandma_sondegaard"
+                            passive="#ingeborg_sondegaard"/>
+                        <relation name="parent" active="#grandma_sondegaard"
+                            passive="#eric_sondegaard"/>
+                        <relation name="uncle" active="#eric_sondegaard"
+                            passive="#ingeborg_sondegaard"/>
+                    </listRelation>
+                    <listRelation type="social">
+                        <relation name="employee" active="#annie_lundeen #bessie #eric_sondegaard"
+                            passive="#alice_montel #philip_montel"/>
+                    </listRelation>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="lone_pine">
+                        <placeName>Lone Pine</placeName>
+                    </place>
+                    <place xml:id="tanager_hill">
+                        <placeName>Tanager Hill</placeName>
+                    </place>
+                    <place xml:id="chicago">
+                        <placeName>Chicago</placeName>
+                    </place>
+                    <!-- how do I show relationships between these? (e.g. Lone Pine Lake is on Lone Pine [farm] ) -->
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <!-- Do I need xenoData if I don't think I have anything that fits here? -->
+        <revisionDesc>
+            <listChange>
+                <change><name/><date/></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+
+            <p n="0001">
+                <s n="0001.001">Suddenly the catbird uttered a piercing scream and disappeared from
+                    the cross on the chapel.</s>
+                <s n="0001.002"> And <persName ref="#philip_montel">Philip</persName> turned to see
+                    entering from the leftwing of the stage under a green pine tree a white clothed
+                    woman--a <seg ana="#con-mech">doll-like</seg>
+                    <seg ana="#trans-inf">Lorelei</seg>.</s>
+                <s n="0001.003">Two translucent silver eagle wings hovered--shimmering--above the
+                    tree, their <seg ana="#rep-ang">silvery light casting a sheen upon
+                    her</seg>.</s>
+                <s n="0001.004">She too moved on the tips of her toes.</s>
+                <s n="0001.005">But more as if she were a <seg ana="#con-mech">toy</seg>, or a <seg
+                        ana="#con-mech">goddess on wheels</seg>.</s>
+                <s n="0001.006" ana="#con-lit">She did not look to right or to left.</s>
+                <s n="0001.007">She held in her small white hands a piece of <seg ana="#con-dom"
+                        >sheer linen upon which she was embroidering</seg> a <seg ana="trans-inf"
+                        >red strawberry</seg>.</s>
+                <s n="0001.008">Her golden hair was drawn into a psyche knot at the nape of her neck
+                    and a small jade bird on a thin gold <seg ana="#con-lit">chain was fastened at
+                        her throat</seg>.</s>
+                <s n="0001.009">She looked like a <seg ana="rep-ang">porcelain</seg>
+                    <seg ana="con-mech">automaton</seg>——<seg ana="rep-ang">daintily painted pink
+                        and white</seg>——<seg ana="con-mech">with some workings inside</seg> that
+                    caused her to embroider.</s>
+                <s n="0001.010">From under her <seg ana="con-clo">skirt</seg>, tiny black ballet
+                    shoes peeked as she moved gently forward--as if <seg ana="con-mech">wound by a
+                        key</seg>.</s>
+                <s n="0001.011">As she came to the water she continued to float.</s>
+                <s n="0001.012">Intent upon her embroidery, she glided about, on the tips of her
+                    toes, upon the glassy surface of the lake.</s>
+            </p>
+            <p n="0002">
+                <s n="0002.001">Swaying a little in the soft breeze, her eyes upon her needle, she
+                    moved as in a trance——slowly toward the opposite shore, where there was a tiny
+                    pier painted red.</s>
+            </p>
+            <p n="0003">
+                <s n="0003.001">Fastened to it was a dainty row boat. It was blue and white and
+                    looked as spruce as a new toy.</s>
+                <s n="0003.002">Circled about it were waterlilies, abundant and fresh--as clean and
+                    white as songs.</s>
+                <s n="0003.003">Along the sandy shore lay chalk stones and clusters of blue
+                    iris.</s>
+                <s n="0003.004">Backstage, a mandolin was picking away at an inconsequential
+                    melody.</s>
+            </p>
+
+        </body>
+        <back>
+            <div1 type="analysis">
+                <p>
+                    <interpGrp type="transgression" resp="TAH">
+                        <interp ana="resistance"            xml:id="trans-res"/>
+                        <interp ana="infidelity"            xml:id="trans-inf"/>
+                        <interp ana="counterperformance"    xml:id="trans-cp"/>
+                        <!-- ... -->
+                    </interpGrp>
+                    <interpGrp type="constraint" resp="TAH">
+                        <interp ana="clothes"       xml:id="con-clo"/>
+                        <interp ana="mechanization" xml:id="con-mech"/>
+                        <interp ana="domesticity"   xml:id="con-dom"/>
+                        <interp ana="literal"       xml:id="con-lit"/>
+                        <!-- ... -->
+                    </interpGrp>
+                    <interpGrp type="repfem" resp="TAH"><!-- representations of the feminine -->
+                        <interp ana="automaton"     xml:id="rep-aut"/>
+                        <interp ana="madonna"       xml:id="rep-mad"/>
+                        <interp ana="angelic"       xml:id="rep-ang"/>
+                        <interp ana="demonic"       xml:id="rep-dem"/>
+                        <interp ana="animalistic"   xml:id="rep-ani"/>
+                        <!-- ... -->
+                    </interpGrp>
+                    <interpGrp type="relicon" resp="TAH"><!-- religious iconography -->
+                        <interp ana="madonna" xml:id="rel-mad"/>
+                        <interp ana="angelic" xml:id="rel-ang"/>
+                        <interp ana="demonic" xml:id="rel-dem"/>
+                        <!-- ... -->
+                    </interpGrp>
+                    <interpGrp type="place" resp="TAH">
+                        <interp ana="imagined"      xml:id="pla-ima"/>
+                        <interp ana="constructed"   xml:id="pla-con"/>
+                        <interp ana="natural"       xml:id="pla-nat"/>
+                        <!-- ... -->
+                    </interpGrp>
+                </p>
+            </div1>
+        </back>
+
+
+    </text>
+</TEI>
