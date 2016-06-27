@@ -1,13 +1,11 @@
 <?xml-model href="../schemas/exercise.rnc" type="application/relax-ng-compact-syntax"?>
 <?xml-model href="../schemas/exercise.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-stylesheet title="TEI Boilerplate" type="text/xsl" href="teibp.xsl"?>
-<<<<<<< HEAD
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
 =======
 <tei xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
->>>>>>> 0c3d08ded37e3ee31b15d2d14e7ad2d785cc5d84
         <fileDesc>
             <titleStmt>
                 <title>Mein Penatenwinkel</title>
@@ -30,8 +28,6 @@
     </teiHeader>
     
 <text>
-<<<<<<< HEAD
-
 
 <front>
     
@@ -46,7 +42,6 @@
     <head>Inhalt.</head>
 <pb n="0001" pdf="0019"/>
 	In einem seiner lezten Bücher sagt Rosegger, daß,
->>>>>>> 0c3d08ded37e3ee31b15d2d14e7ad2d785cc5d84
 wenn wir das fünfzigste Jahr überschreiten, unser
 herz meistens ein großer Friedhof wird. 
 </p><p>Denn dann haben wir schon viel mehr Lieben
@@ -115,7 +110,6 @@ werden hier keine Geheimnisse enthüllt, kein Skandal
 ans Licht gezogen sondern in sanfter Andacht gehe ich
 mit geweihter Kerze in meinem Allerheiligsten umher
 und lasse das stille Licht auf teure Züge fallen, damit
-<<<<<<< HEAD
 sie allen lebendig werden.</p>
 <pb n="0004"/>
 <pb n="0005"/>
@@ -136,7 +130,6 @@ sie allen lebendig werden.
 <pb n="0006" pdf="0024"/>
 <pb n="0007" pdf="0025"/>
 Als ich sie zum ersten Male hören sollte, war ich
->>>>>>> 0c3d08ded37e3ee31b15d2d14e7ad2d785cc5d84
 acht Jahre alt, in Bonn, bei meinem allerersten
 Konzert! Dieser Tag war so aufregend, daß ich nicht weiß,
 wie ich überhaupt den Abend erreichte, wohl selten in
@@ -506,7 +499,6 @@ nicht mehr zurückhalten! Dann war ich fort, in die
 weite, weite Welt hinaus, auf dem einsamen Thron,
 in der Mühle harter Arbeit, dann wurde ich Mutter,
 und dann - - - - wurde es Nacht für mich auf
-<<<<<<< HEAD
 der Erde, und nie wieder Tag!</p>
 <pb n="0019"/>
 </div>
@@ -523,7 +515,6 @@ der Erde, und nie wieder Tag!
 <pb n="0020" pdf="0038"/>
 <pb n="0021" pdf="0039"/>
 Von allen meinen Großeltern habe ich nur die Stiefmutter 
->>>>>>> 0c3d08ded37e3ee31b15d2d14e7ad2d785cc5d84
 meiner Mutter gekannt und lieb gehabt.
 Sie war eine Prinzessin von Württemberg, und ihr
 Leben war sehr eigentümlich gewesen von früh an. Ihr
@@ -942,7 +933,6 @@ gern haben, denn ich hatte es mir schon oft angesehen
 und gewünscht. Der Herr vom Laden sagte: „Das
 kostet einen Gulden", auf meine sehr verlegen hervorgebrachte 
 Frage hin, denn zu fragen was etwas kosten</p>
-
 <pb n="0034"/>
 <p>schien mir unbescheiden und unzulässig, und ich kann
 es eigentlich noch heute nicht. „Einen Gulden!" Ich
@@ -1166,10 +1156,8 @@ weiß ich noch genau:</p>
             <l>Und die Tage kalt und trübe!</l>
         </lg>
     </lg>
-
     <p>Durch einen Zufall finde ich das Original dieses,
 von Longfellow verfaßten, Gedichtes. Hier ist es:</p>
-
     <lg type="poem">
         <lg type="stanza">
             <l>The day is cold, and dark, and dreary,</l>
@@ -1333,7 +1321,6 @@ die einstige Herrin des Hauses, die Mutter, nur im geschlossenen
 Sarge ihr Haus wieder betrat. Das war
 der Eindruck, den ich empfing. Der war aber nicht
 erschütternd, sondern nur gedankenvoll, ein ganzes Stück
-<<<<<<< HEAD
 Lebensphilosophie.</p>
 <pb n="0046"/>
 <pb n="0047"/>
@@ -1348,7 +1335,6 @@ Lebensphilosophie.
 <div type ="chapter">
     <head>Ernst Moritz Arndt.</head>
 <pb n="0048" pdf="0066"/>
->>>>>>> 0c3d08ded37e3ee31b15d2d14e7ad2d785cc5d84
 
 <pb n="0049"/>
 <p>Eine glühendere Feuerseele als Arndt hat es wohl
@@ -1523,7 +1509,6 @@ zum deutschen Kaiser hat es erst ein anderer gebracht,
 auf den damals niemand achtgab, der ganz traurig in
 der Verbannung am Fenster stand und in die Londoner
 Straße hinuntersah.
-<<<<<<< HEAD
 </p><p>Folgendes Gedicht schrieb Arndt damals in meiner
 Mutter Album:</p>
     <lg type="poem">
@@ -1579,7 +1564,6 @@ Mutter Album:
  <div type = "chapter">  
 <head>Bernays.</head>
 <pb n="0056" pdf="0074"/>
->>>>>>> 0c3d08ded37e3ee31b15d2d14e7ad2d785cc5d84
 
 <pb n="0057"/>
 <p>Ein vertrauter Freund unseres Hauses war der große
@@ -1836,7 +1820,6 @@ sehr großer Dichter war. Wer hätte je wieder die tiefe
 Menschenkenntnis von Moses erreicht, der den Mut
 hatte, vier Generationen seines entnervten und </p>
 
-
 <pb n="0065"/>
 <p>entarteten Volkes zugrunde gehen zu lassen, bevor er ihnen
 das Land anwies, in welchem sie sich mit neuem Blute
@@ -2059,7 +2042,6 @@ wie es Steadge in seiner Zeit tat, als er mit ihm die
 Evangelien auf Griechisch las, und sie von ihm auslegen
 hören, in der heutigen Zeit, mit den heutigen Kämpfen
 und Verkehrtheiten und Errungenschaften.
-<<<<<<< HEAD
 </p><p>Es wäre der Mühe wert! Er sah tief und weit!</p>
 <pb n="0072"/>
 <pb n="0073"/>
@@ -2073,7 +2055,6 @@ und Verkehrtheiten und Errungenschaften.
 <div type="chapter">
 <head>Lang und Maffet.</head>
 <pb n="0074" pdf="0092"/>
->>>>>>> 0c3d08ded37e3ee31b15d2d14e7ad2d785cc5d84
 
 <pb n="0075"/>
 <p>Treue Diener sind in einem Hause so wichtig wie die
@@ -2323,7 +2304,6 @@ er es verdient! Lang und Maffet! Gott soll euch segnen!
 Gott soll euch reich machen in der Erinnerung an alles,
 was ihr für euren unglücklichen Herrn gewesen seid!
 Nie wird mein kleines, geschriebenes Monument an eure
-<<<<<<< HEAD
 Seelengröße und Aufopferung hinanreichen!</p>
 <pb n="0083"/>
 </div>
@@ -2335,7 +2315,6 @@ Seelengröße und Aufopferung hinanreichen!
 <div type = "chapter">
 <head>Unser Fräulchen.</head>
 <pb n="0084" pdf="0102"/>
->>>>>>> 0c3d08ded37e3ee31b15d2d14e7ad2d785cc5d84
 
 <pb n="0085"/>
 <p>Dieser Engel in Menschengestalt war die Großnichte 
@@ -2756,7 +2735,6 @@ wie ich es auffaßte, denn ich war ja doch ihr Seelenkind,
 ihre gelehrige Schülerin gewesen und hatte gesucht 
 in die Tat unzusetzen, was ich von ihren Lippen
 gesogen.</p>
-
 <pb n="0098"/>
 <p>Ich war immer allen Menschen zu stark, ihr nie,
 ich war zu stürmisch, ihr nicht. Ich wollte so viel, ihr
@@ -2894,7 +2872,6 @@ solch einem Charakter verbinden, dann ist es Sellengröße
 und Seelenadel, und man bleibt in der Menschen
 Erinnerung wie ein wundervolles Kirchenfenster mit
 sanftem Licht und reichen Farben zurück, das alles
-<<<<<<< HEAD
 schöner gemacht, worauf es geschienen hat!</p>
 <pb n="0103"/>
 </div>
@@ -2907,7 +2884,6 @@ schöner gemacht, worauf es geschienen hat!
     <pb n="0103" pdf="0121"/>
     <head>Bunsen.</head>
 <pb n="0104" pdf="0122"/>
->>>>>>> 0c3d08ded37e3ee31b15d2d14e7ad2d785cc5d84
 
 <pb n="0105"/>
 <p>Der geistvolle Freund des geistreichen Königs war
@@ -3229,7 +3205,6 @@ das Orchester, man dachte man spiele schön, und alle
 Unvollkommenheit der Ausführung verschwand vor der
 Erhabenheit des Gedankens. Die ganz großen Meister
 kann man auch so verstehen, ohne irgendwelche</p>
-
 <pb n="0115"/>
 <p>Ausstattung, wenn man nur genug Phantasie hat! Und
 an der hat es, Gott sei Dank, nie gemangelt. Aunt Mim
@@ -3465,7 +3440,6 @@ sein, aber die Leute, welche die andern geistreich machen,
 sind immer noch viel angenehmer.
 </p><p>Im Laufe dieser Aufzeichnungen werde ich noch
 von solchen sprechen, welche andere geistreich machten.
-<<<<<<< HEAD
 Das ist eine besondere Gabe.</p>
 <pb n="0123"/>
 </div>
@@ -3474,11 +3448,9 @@ Das ist eine besondere Gabe.</p>
 =======
 Das ist eine besondere Gabe.
 <pb n="0123" pdf="0141"/></div>
-
 <div type = "chapter">
     <head>Perthes.</head>
 <pb n="0124" pdf="0142"/>
->>>>>>> 0c3d08ded37e3ee31b15d2d14e7ad2d785cc5d84
 
 <pb n="0125"/>
 <p>Die Zeit in Bonn war reich an interessanten
@@ -3784,7 +3756,6 @@ daran, ihn als das höchst Erdenglück zu betrachten, weil
 sie sonst nicht gewußt hätte, wie unser Gottvertrauen
 zu erhalten und uns zu trösten in all dem schweren
 Leide, das für uns immer fühlbarer und immer tiefer
-<<<<<<< HEAD
 wurde!</p>
 <pb n="0135"/>
 </div>
@@ -3793,11 +3764,9 @@ wurde!</p>
 =======
 wurde!
 <pb n="0135" pdf="0153"/></div>
-
 <div type = "chapter">
     <head>Der Glas.</head>
 <pb n="0136" pdf="0154"/>
->>>>>>> 0c3d08ded37e3ee31b15d2d14e7ad2d785cc5d84
 
 <pb n="0137"/>
 <p>Damals kam über den Ozean eine neue Kunst, ein
@@ -4185,7 +4154,6 @@ Hause, dann mußte Neukomm die Orgel spielen um
 Stimmung zu machen, dann wurde die Kette gebildet,
 ein Bleistift durch einen großen, wollenen Ball gesteckt,
 auf den zwei die Hände legten, gewöhnlich mein Vater</p>
-
 <pb n="0149"/>
 <p>und ein junges Mädchen, das viel Kraft hatte, und nun
 wurden lauter philosophische Fragen gestellt. Mein
@@ -4500,7 +4468,6 @@ immer genau kennen ehe man sie beurteilt.
 </p><p>Nun, meine Vergangenheit ist so merkwürdig, daß
 man wohl nicht darauf gekommen wäre, und daß man
 so viel geraten hat bei den Erzählungen über mich, statt
-<<<<<<< HEAD
 der Wahrheit nachzuforschen.</p>
 <pb n="0159"/>
 </div>
@@ -4512,8 +4479,6 @@ der Wahrheit nachzuforschen.
 <div type = "chapter">
 <head>Mary Barnes.</head>
 <pb n="0160" pdf="0178"/>
->>>>>>> 0c3d08ded37e3ee31b15d2d14e7ad2d785cc5d84
-
 
 <pb n="0161"/>
 <p>Ich sehe sie noch über den Schloßhof daherkommen,
@@ -4810,7 +4775,6 @@ Lilienstengel in der Hand geboren. Wo sie hingriff, da
 sproß Balsam und da wurde es still und feierlich und
 friedlich. Das war der besondere Segen, den sie in ihr
 freudloses und opfervolles Leben mitbekommen hatte.
-<<<<<<< HEAD
 Gott segne ihr Andenken in allen kommenden Zeiten!</p>
 <pb n="0171"/>
 </div>
@@ -4822,7 +4786,6 @@ Gott segne ihr Andenken in allen kommenden Zeiten!
 <div type = "chapter">
 <head>Die Familie „Valette".</head>
 <pb n="0172" pdf="0190"/>
->>>>>>> 0c3d08ded37e3ee31b15d2d14e7ad2d785cc5d84
 
 <pb n="0173"/>
 <p>Meine Erzieherin, Fräulein Josse, sorgte ein bißchen
@@ -4960,7 +4923,6 @@ Gaultier, rue des Saints Péres No. 12,</emph> da gingen wir
 auch zu Fuß hin. Ich habe aber nie meine Schüchternheit
 vor</p>
 
-<<<<<<< HEAD
 <pb n="0183"/>
 </div>
 <div n="__" type="chapter"><head>Sohn</head>
@@ -4974,7 +4936,6 @@ vor</p>
 <pb n="184" pdf="202"/>
 <pb n="185" pdf="203"/>
 Denn Herzensgüte, erleuchtete Herzensgüte, diese allerhöchste menschliche Eigenschaft, 
->>>>>>> 0c3d08ded37e3ee31b15d2d14e7ad2d785cc5d84
 je ein Antlitz verklärt hat, so war es dasjenige des uns so teureren Freundes, des 
 Malers Carl Sohn aus Düsseldorf.
 </p><p>
@@ -5256,7 +5217,6 @@ den Thron! Die <unclear>Mediatisierten</unclear> haben es am besten auf der Erde
 <unclear>Kunstmäcene</unclear>, als Hausherren mit ausgewählten Gästen, als Nachkommen 
 geistiger Erbschaften und Vorzüge, als Freunde von Künstlern und Gelehrten, als wirkliche 
 "Freiherren" auf schönen, waldreichen Gütern. Solch ein Freund wie Sohn macht den Wald 
-<<<<<<< HEAD
 schöner und das Leben reich!</p>
 <pb n="0199"/>
 </div>
@@ -5272,7 +5232,6 @@ schöner und das Leben reich!
 <pb n="200" pdf="218"/>
 <pb n="201" pdf="219"/>
 In früherer Zeit nahm man an Höfen nur Damen als Kammerfrauen und Kinderfrauen. Und man 
->>>>>>> 0c3d08ded37e3ee31b15d2d14e7ad2d785cc5d84
 tat wohl daran, denn man war der äußersten Diskretion bedürftig, und die Kinder lernten 
 früh an die guten Manieren, die ihnen so notwendig waren und so geläufig sein sollten wie 
 das tägliche Brot. So war es die Schwester des nachmaligen Generals Weiz, die Kinderfrau 
@@ -5480,8 +5439,6 @@ meiner Puppe die Haare wieder festzukleben, von einer abprallenden kalten Kugel 
 Stirn getroffen hinfiel, denn er war ja garnicht tot, nicht einmal verwundet.
 </p>
 
-
-
 <pb n="0210"/>
 <p>Die Frieschärler fanden unsern Garten eben recht um ihre Flinten hineinzuprobieren. 
 Endlich riet man doch sehr zur Abreise. Von Chelius habe ich keinen angenehmen Eindruck 
@@ -5642,14 +5599,11 @@ musste, bevor man scholten oder gestraft werden konnte. Sie blieb bei uns bis ic
 vierzehn Jahre alt war, dann zog sie sich zurück mit einer Pension und lebte im Palais 
 meiner Großmama, das nun leider nicht mehr ist! Sie war ein Stück Vergangenheit, ein 
 Stück großer und schwerer Erlebnisse, die vielleicht viel dazu beigetragen hatten, ihre 
-<<<<<<< HEAD
 Kräfte früher zu verzehren als es sonst wohl der Fall gewesen wäre.</p>
 <pb n="0217"/>
 </div>
 <div n="__" type="chapter"><head>Frau Baring</head>
 <pb n="0218"/> 
-
-
 
 
 <pb n="0219"/>
@@ -5663,7 +5617,6 @@ Kräfte früher zu verzehren als es sonst wohl der Fall gewesen wäre.
 <pb n="218" pdf="236"/> 
 <pb n="219" pdf="237"/>
 Diese edle Seele trat als Hülfe in mein Leben, als es sehr dunkel und sehr schwer wurde. 
->>>>>>> 0c3d08ded37e3ee31b15d2d14e7ad2d785cc5d84
 Denn die Krankheit im Hause nahm zu, die Winter waren lang und hart, und ich war sehr 
 jung, um so viel auf den Schultern zu haben. Einen Winter lang war ich wirklich die 
 einzig Gesunde im Hause, sechs Kranke besuchte ich abwechselnd. Vater, Mutter zu Bett, 
@@ -5906,7 +5859,6 @@ leidend, aber, aus der Schule kommend, blieb das Leiden unbeachtet, und ich tat 
 Pflicht, ohne jemals meine Gesundheit als ein Hindernis in den Vordergrund zu schieben. 
 Ich hatte immer gesehen, dass der Körper nicht zählt, dass er eine Nebensache ist und 
 überwunden werden muss, bis zu dem</p>
-
 <pb n="0230"/>
 <p>seligen Augenblick, wo wir das elende Gehäuse, das die Seele eine Zeitlang bewohnt, 
 verlassen und schütteln dürfen. Das ist eine der schweren, irdischen Prüfungen, dass der 
@@ -6077,7 +6029,6 @@ losgelassen. Ich bin ihm ja auch treu geblieben und das will manchmal viel sagen
 ich wäre es oft gern los gewesen. Es liegt so nahe, wenn einem etwas weh tut, es 
 herauszuschneiden oder fortwerfen zu wollen, als ob man sich aus einem bösen Traum mit 
 Gewalt weckte, um nicht mehr so gequält zu werden. 
-<<<<<<< HEAD
 und von längst vergangenen</p>
 <pb n="0238"/>
 <pb n="0239"/>
@@ -6089,24 +6040,15 @@ und von längst vergangenen</p>
 
 
 
-
-
-
-
-
  
-
 =======
 und von längst vergangenen
 <pb n="238" pdf="256"/></div>
 <div type = "chapter">
->>>>>>> 0c3d08ded37e3ee31b15d2d14e7ad2d785cc5d84
 
     <pb n="239" pdf="257"/>
 <head>Frau Wahler</head>
-
     <pb n="240" pdf="258"/>
-
 <pb n="0241"/>
 <p>Unter dem Titel „Deutsches Glück" und mit verändertem Namen habe ich die liebe Alte 
 selbst sprechen lassen und schreibe hier das noch einmal ab, da ein treues Porträt mit 
@@ -6275,7 +6217,6 @@ ordentlich. Während meine Tante, die Königin Sophie von Schweden, als Braut in
 war, benutze das meine Mutter, um sie allein zu vielen Kranken und Armen zu schicken. Sie 
 lachte manchmal und sagte: „Wenn die Schweden ihre künftige Königin sehen könnten mit der 
 Flasche Wein unter dem Arm und die Bibel in der Hand zu den Ärmstem wandern und</p>
-
 <pb n="0249"/> 
     <p>ihnen leibliche Kraft und geistige Stütze bringen, sie hätten ihre Freude daran!" Später 
 machte es ihre Stellung unmöglich und es ist gut, sie hat das menschliche Elend ganz in 
@@ -6387,7 +6328,6 @@ Klafter Holz aus unserm Garten gefahren. Der Garten steht nun auch im Penatenwin
 ich habe ihn unendlich lieb gehabt und entbehre ihn immer noch schmerzlich. Die Bäume 
 waren die Vertrauten so vieler Erlebnisse. Ich habe so viel mit ihnen gesprochen. Da war 
 eine Silberpappel vor dem Fenster, die wusste viel und flüsterte davon, wenn der 
-<<<<<<< HEAD
 Abendwind leise über den Rhein hinkräuselte. </p>
 <pb n="0254"/>
 <pb n="0255"/>
@@ -6401,7 +6341,6 @@ Abendwind leise über den Rhein hinkräuselte.
     <pb n="255" pdf="273"/>
 <head>Meine Lehrer</head>
 <pb n="256" pdf="274"/>
->>>>>>> 0c3d08ded37e3ee31b15d2d14e7ad2d785cc5d84
 
 <pb n="0257"/>
 <p>Von meinem zwölften Jahre an gab mich meine Muter fast ganz in männliche Hände, da sie 
@@ -6618,7 +6557,6 @@ es mit ihren Pflichten so ernst genommen hat. Heiter war ja das Leben nicht, son
 ernst. Wenn meine Mutter zu Bett lag, dann ging ich nicht einmal zu Tisch, sondern 
 besorgte zum Teil ihr Essen, aß selbst im Nebenzimmer und musste dabei drei Zeitungen 
 gelesen haben. Denn meine Mutter wollte</p>
-
 <pb n="0267"/>
 <p>mich auch auf die Politik hinlenken. Das ist ihr aber vollkommen misslungen. Ich hasse 
 Politik.
@@ -6867,7 +6805,6 @@ Individuum. Ich hatte noch das Glück, dass ich soviel von Rumänien wusste, und
 ich sprachlich auf das Erlernen der neuen Sprache so gut vorbereitet war, auch in viele 
 Interessen eingeweiht war. 
 </p>
-
 <pb n="0278"/>
 <p>Leider habe ich nie malen gelernt. Aber insofern wurde unser teurer Freund, Professor 
 Carl Sohn, mein Lehrer, als ich stundenlang hinter ihm sass wenn er malte und zusah und 
@@ -6959,7 +6896,6 @@ sollten die Kinder allein von ihren Eltern erzogen werden, die mit ihnen zusamme
 würden und keine Schablone haben, die wie ein Procrustesbett die Glieder verkümmert. Man 
 sollte auch den Kindern mehr freie Zeit zum Träumen lassen, dass die Natur sie allein 
 unterrichten kann. Sie ist die allergewaltigste Lehrerin, die das Kindergemüt auch immer 
-<<<<<<< HEAD
 begreift.</p>
 <pb n="0282"/>
 <pb n="0283"/>
@@ -6973,7 +6909,6 @@ begreift.
     <pb n="283" pdf="301"/>
 <head>Marie</head>
 <pb n="284" pdf="302"/>
->>>>>>> 0c3d08ded37e3ee31b15d2d14e7ad2d785cc5d84
 
 <pb n="0285"/>
 <p>Wenn ich den geliebten Namen ausspreche, so füllt sich mein Herz immer noch mit Tränen, 
@@ -7232,13 +7167,11 @@ Erde! Sie gehörte dorthin, wo der Jubel nicht durch bitteres Leid zerstört wir
 Licht nur immer größer wird und immer schöner, und sie sich die Engelflügel nicht mehr 
 abzustreifen braucht, um sich der elenden Erde anzupassen. Sie darf strahlen ohne Ende 
 und singen, wie nur Engel singen<unclear>,</unclear> und der Freude leben, der sie 
-<<<<<<< HEAD
 angehörte!</p>
 <pb n="0297"/>
 </div>
 <div n="__" type="chapter"><head>Frau Bachenberg</head>
 <pb n="0298"/>
-
 <pb n="0299"/>
 <p>Sie war nahezu vierzig Jahre lang die Vorsitzende des Frauenvereins für Krankenpflege in 
 =======
@@ -7247,10 +7180,8 @@ angehörte!</div>
     <pb n="297" pdf="315"/>
 <head>Frau Bachenberg</head>
 <pb n="298" pdf="316"/>
-
 <pb n="299" pdf="317"/>
 Sie war nahezu vierzig Jahre lang die Vorsitzende des Frauenvereins für Krankenpflege in 
->>>>>>> 0c3d08ded37e3ee31b15d2d14e7ad2d785cc5d84
 Neuwied. Sie war der Inbegriff werktätiger Nächstenliebe. Sie war diejenige, die nächst 
 meiner Mutter mich alles lehrte, was ich an Wohltätigkeitseinrichtungen in der Jugend 
 erlernte, und wie praktisch sie war, wie fest sie alles auffasste, dass ich sie von klein 
@@ -7475,14 +7406,11 @@ die den alten Sitzungsaal erhellten. Sie alle haben ihre Stätte in meinem Herze
 lebendiger als auf dem Kirchhof. Denn sie lächeln noch in mein Leben hinein und schweigen 
 nicht, sondern sind so beredt wie immer und so opferfreudig und gut! Ihr lieben 
 Gestalten! Kommt um mich her und lasst mich fühlen, dass ihr lebendig geblieben, und dass 
-<<<<<<< HEAD
 wir uns so lieb haben, als wäre nicht ein Tag vergangen!</p>
 <pb n="0309"/>
 </div>
 <div n="__" type="chapter"><head>Mein Bruder Otto</head>
 <pb n="0310"/>
-
-
 
 <pb n="0311"/>
 <p>Freitag, den 22. November 2850, trat das ängstlich erwartete Kleinod in diese 
@@ -7492,10 +7420,8 @@ wir uns so lieb haben, als wäre nicht ein Tag vergangen!</div>
 <pb n="309" pdf="327"/>
 <head>Mein Bruder Otto</head>
 <pb n="310" pdf="328"/>
-
 <pb n="311" pdf="329"/>
 Freitag, den 22. November 2850, trat das ängstlich erwartete Kleinod in diese 
->>>>>>> 0c3d08ded37e3ee31b15d2d14e7ad2d785cc5d84
 Schmerzenstal ein. Es war ein unvergesslicher Tag für alle, die damals zugegen waren. 
 Schon seit einiger Zeit hatte man wenig Hoffnung, dass das liebe Kind lebend zur Welt 
 käme. Darum war nach so vielen Stunden schwersten Leidens und äußerster Gefahr die 
@@ -7773,7 +7699,6 @@ eines Blasensteins, Zwetschenkerne.
 Er gestand später, er habe einmal wunderschönen Zwetschen nicht widerstehen lönnen, habe 
 aber jemand kommen hören und sie eilig verschluckt. </p>
 
-
 <pb n="0323"/>
 <p>Das arme Kind sollte nicht ruhig durch den Tag kommen: Am Nachmittag sprang eine Ader in 
 der Wunde, und ind der Angst, dass er sich verbluten könnte, wurde er beim Unterbinden 
@@ -8045,7 +7970,6 @@ habe eine Säge im Herzen, die langsam hin und her gezogen wird.
 </p><p>
 Ottos größte Freude war, die geistige Entwicklung eines Menschen zu verfolgen, und er 
 behauptete immer,</p>
-
 <pb n="0334"/>
 <p>der Geist sei nicht zu dämpfen, noch zu unterdrücken. Wie er hörte, Kasper Hauser habe 
 sich so merkwürdig rasch entwickelt: „ Siehst Du, Mama," rief er aus, „der Geist schläft 
@@ -8314,8 +8238,6 @@ In diesen Tagen hatten wir den Besuch eines Freundes, Professor Perthes aus Bonn
 saß in den Mittagsstunden mit unserem Onkel bei ihm, und die beiden Herren unterhielten 
 sich über eine zu</p>
 
-
-
 <pb n="0345"/>
 <p>dende Handwerkerherberge. Nachdem er eine Zeitlang aufmerksam, wandte er sich dann in 
 seiner bescheidenen Weise an den Professor und machte ihm eine genaue Beschreibung, wie 
@@ -8492,12 +8414,10 @@ wir, anstatt unseres Lieblings, die entseelte Leiche vor uns hatten.
 </p><p>
 Möge es Dir erspart werden, solche Erfahrungen zu machen, und möge Dir der Himmel einen 
 Sohn schenken, der unserm heimgegangenen Kinde an Geist ähnlich sei, jedoch ohne die 
-<<<<<<< HEAD
 traurige Zugabe eines kranken Körpers!</p>
 </div>
 =======
 traurige Zugabe eines kranken Körpers!</div>
->>>>>>> 0c3d08ded37e3ee31b15d2d14e7ad2d785cc5d84
 </body>
 </text>
 </TEI>
