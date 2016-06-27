@@ -1,6 +1,10 @@
-<?xml-model href="../schemas/exercise.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="../schemas/exercise.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet title="TEI Boilerplate" type="text/xsl" href="teibp.xsl"?>
+<!-- uncomment the following block to make this readable by TEI Boilerplate -->
+
+<!-- 
+    <?xml-model href="../schemas/exercise.rnc" type="application/relax-ng-compact-syntax"?>
+    <?xml-model href="../schemas/exercise.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    <?xml-stylesheet title="TEI Boilerplate" type="text/xsl" href="teibp.xsl"?>
+ -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
