@@ -3,9 +3,6 @@
 <?xml-stylesheet title="TEI Boilerplate" type="text/xsl" href="teibp.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
-=======
-<tei xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Mein Penatenwinkel</title>
@@ -29,19 +26,15 @@
     
 <text>
 
-<front>
-    
-</front>
+
 <body>
     <div n="__" type="chapter"><head>Inhalt.</head>
 <pb n="0001"/>
-<p>In einem seiner lezten Bücher sagt Rosegger, daß,
-=======
-<front>
+<p>In einem seiner lezten Bücher sagt Rosegger, daß,</p>
 <div type = "Preface">    
     <head>Inhalt.</head>
-<pb n="0001" pdf="0019"/>
-	In einem seiner lezten Bücher sagt Rosegger, daß,
+<pb n="0001" facs="0019"/>
+<p>	In einem seiner lezten Bücher sagt Rosegger, daß,
 wenn wir das fünfzigste Jahr überschreiten, unser
 herz meistens ein großer Friedhof wird. 
 </p><p>Denn dann haben wir schon viel mehr Lieben
@@ -118,18 +111,16 @@ sie allen lebendig werden.</p>
 <pb n="0006"/>
 <pb n="0007"/>
 <p>Als ich sie zum ersten Male hören sollte, war ich
-=======
-sie allen lebendig werden.
-<pb n="0004" pdf="0022"/>
-<pb n="0005" pdf="0023"/>
+
+sie allen lebendig werden.</p>
+<pb n="0004" facs="0022"/>
+<pb n="0005" facs="0023"/>
 </div>
-</front>
-<body>
 <div type = "chapter">
 <head>Clara Schumann.</head>
-<pb n="0006" pdf="0024"/>
-<pb n="0007" pdf="0025"/>
-Als ich sie zum ersten Male hören sollte, war ich
+<pb n="0006" facs="0024"/>
+<pb n="0007" facs="0025"/>
+<p>Als ich sie zum ersten Male hören sollte, war ich
 acht Jahre alt, in Bonn, bei meinem allerersten
 Konzert! Dieser Tag war so aufregend, daß ich nicht weiß,
 wie ich überhaupt den Abend erreichte, wohl selten in
@@ -506,15 +497,15 @@ der Erde, und nie wieder Tag!</p>
 <pb n="0020"/>
 <pb n="0021"/>
 <p>Von allen meinen Großeltern habe ich nur die Stiefmutter 
-=======
-der Erde, und nie wieder Tag!
-<pb n="0019" pdf="0037"/>
+
+der Erde, und nie wieder Tag!</p>
+<pb n="0019" facs="0037"/>
 </div>
 <div type = "chapter">
     <head>Großmama.</head>
-<pb n="0020" pdf="0038"/>
-<pb n="0021" pdf="0039"/>
-Von allen meinen Großeltern habe ich nur die Stiefmutter 
+<pb n="0020" facs="0038"/>
+<pb n="0021" facs="0039"/>
+<p>Von allen meinen Großeltern habe ich nur die Stiefmutter 
 meiner Mutter gekannt und lieb gehabt.
 Sie war eine Prinzessin von Württemberg, und ihr
 Leben war sehr eigentümlich gewesen von früh an. Ihr
@@ -1327,14 +1318,14 @@ Lebensphilosophie.</p>
 </div>
 <div n="__" type="chapter"><head>Ernst Moritz Arndt.</head>
 <pb n="0048"/>
-=======
-Lebensphilosophie.
-<pb n="0046" pdf="0064"/>
-<pb n="0047" pdf="0065"/>
+
+
+<pb n="0046" facs="0064"/>
+<pb n="0047" facs="0065"/>
 </div>
 <div type ="chapter">
     <head>Ernst Moritz Arndt.</head>
-<pb n="0048" pdf="0066"/>
+<pb n="0048" facs="0066"/>
 
 <pb n="0049"/>
 <p>Eine glühendere Feuerseele als Arndt hat es wohl
@@ -1539,31 +1530,35 @@ Mutter Album:</p>
 </div>
 <div n="__" type="chapter"><head>Bernays.</head>
 <pb n="0056"/>
-=======
-<br/>Folgendes Gedicht schrieb Arndt damals in meiner
-Mutter Album:
-<br/>
-<br/>„Du heißest Gottes Ebenbild,
-<br/>Ein Fünkchen aus dem Himmelslichte,
-<br/>Was in dir lebt und webt und quillt,
-<br/>Das ist vom Himmel die Geschichte.
-<br/>
-<br/>Die dämmert in die Welt hinein,
-<br/>In diese Welt der armen Blinden,
-<br/>Damit wir uns an ihrem Schein
-<br/>Hier leidlich durch die Wirren finden.
-<br/>
-<br/>An diesem Himmel halte fest
-<br/>Mit allen seinen Wunderzeichen,
-<br/>Wann Erd' und Welt und Glück verläßt,
-<br/>Dies kann nicht wechseln, kann nicht weichen
-<br/>
-<br/>Bonn, am 23. des Lenzmonds 1853."
-<pb n="0055" pdf="0073"/>
+
+    <l>Folgendes Gedicht schrieb Arndt damals in meiner</l>
+    <l>Mutter Album:</l>
+<lg>
+    <l>Du heißest Gottes Ebenbild,</l>
+    <l>Ein Fünkchen aus dem Himmelslichte,</l>
+    <l>Was in dir lebt und webt und quillt,</l>
+    <l>Das ist vom Himmel die Geschichte.</l>
+</lg>
+<lg>
+    <l>Die dämmert in die Welt hinein,</l>
+    <l>In diese Welt der armen Blinden,</l>
+    <l>Damit wir uns an ihrem Schein</l>
+    <l>Hier leidlich durch die Wirren finden.</l>
+    </lg>
+    <lg>
+    <l>An diesem Himmel halte fest</l>
+    <l>Mit allen seinen Wunderzeichen,</l>
+    <l>Wann Erd' und Welt und Glück verläßt,</l>
+    <l>Dies kann nicht wechseln, kann nicht weichen</l>
+    </lg>
+    <lg>
+    <l>Bonn, am 23. des Lenzmonds 1853."</l>
+</lg>
+<pb n="0055" facs="0073"/>
 </div>
  <div type = "chapter">  
 <head>Bernays.</head>
-<pb n="0056" pdf="0074"/>
+<pb n="0056" facs="0074"/>
 
 <pb n="0057"/>
 <p>Ein vertrauter Freund unseres Hauses war der große
@@ -2048,13 +2043,11 @@ und Verkehrtheiten und Errungenschaften.
 </div>
 <div n="__" type="chapter"><head>Lang und Maffet.</head>
 <pb n="0074"/>
-=======
-<br/>Es wäre der Mühe wert! Er sah tief und weit!
-<pb n="0072" pdf="0090"/>
-<pb n="0073" pdf="0091"/></div>
+<pb n="0072" facs="0090"/>
+<pb n="0073" facs="0091"/></div>
 <div type="chapter">
 <head>Lang und Maffet.</head>
-<pb n="0074" pdf="0092"/>
+<pb n="0074" facs="0092"/>
 
 <pb n="0075"/>
 <p>Treue Diener sind in einem Hause so wichtig wie die
@@ -2309,12 +2302,10 @@ Seelengröße und Aufopferung hinanreichen!</p>
 </div>
 <div n="__" type="chapter"><head>Unser Fräulchen.</head>
 <pb n="0084"/>
-=======
-Seelengröße und Aufopferung hinanreichen!
-<pb n="0083" pdf="0101"/></div>
+<pb n="0083" facs="0101"/></div>
 <div type = "chapter">
 <head>Unser Fräulchen.</head>
-<pb n="0084" pdf="0102"/>
+<pb n="0084" facs="0102"/>
 
 <pb n="0085"/>
 <p>Dieser Engel in Menschengestalt war die Großnichte 
@@ -2877,13 +2868,11 @@ schöner gemacht, worauf es geschienen hat!</p>
 </div>
 <div n="__" type="chapter"><head>Bunsen.</head>
 <pb n="0104"/>
-=======
-schöner gemacht, worauf es geschienen hat!
 </div>
 <div type ="chapter">
-    <pb n="0103" pdf="0121"/>
+    <pb n="0103" facs="0121"/>
     <head>Bunsen.</head>
-<pb n="0104" pdf="0122"/>
+<pb n="0104" facs="0122"/>
 
 <pb n="0105"/>
 <p>Der geistvolle Freund des geistreichen Königs war
@@ -3445,12 +3434,10 @@ Das ist eine besondere Gabe.</p>
 </div>
 <div n="__" type="chapter"><head>Perthes.</head>
 <pb n="0124"/>
-=======
-Das ist eine besondere Gabe.
-<pb n="0123" pdf="0141"/></div>
+<pb n="0123" facs="0141"/></div>
 <div type = "chapter">
     <head>Perthes.</head>
-<pb n="0124" pdf="0142"/>
+<pb n="0124" facs="0142"/>
 
 <pb n="0125"/>
 <p>Die Zeit in Bonn war reich an interessanten
@@ -3761,12 +3748,12 @@ wurde!</p>
 </div>
 <div n="__" type="chapter"><head>Der Glas.</head>
 <pb n="0136"/>
-=======
-wurde!
-<pb n="0135" pdf="0153"/></div>
+
+
+<pb n="0135" facs="0153"/></div>
 <div type = "chapter">
     <head>Der Glas.</head>
-<pb n="0136" pdf="0154"/>
+<pb n="0136" facs="0154"/>
 
 <pb n="0137"/>
 <p>Damals kam über den Ozean eine neue Kunst, ein
@@ -4473,12 +4460,12 @@ der Wahrheit nachzuforschen.</p>
 </div>
 <div n="__" type="chapter"><head>Mary Barnes.</head>
 <pb n="0160"/>
-=======
-der Wahrheit nachzuforschen.
-<pb n="0159" pdf="0177"/></div>
+
+    <p>der Wahrheit nachzuforschen.</p>
+<pb n="0159" facs="0177"/></div>
 <div type = "chapter">
 <head>Mary Barnes.</head>
-<pb n="0160" pdf="0178"/>
+<pb n="0160" facs="0178"/>
 
 <pb n="0161"/>
 <p>Ich sehe sie noch über den Schloßhof daherkommen,
@@ -4780,12 +4767,12 @@ Gott segne ihr Andenken in allen kommenden Zeiten!</p>
 </div>
 <div n="__" type="chapter"><head>Die Familie „Valette".</head>
 <pb n="0172"/>
-=======
-Gott segne ihr Andenken in allen kommenden Zeiten!
-<pb n="0171" pdf="0189"/></div>
+
+    <p>Gott segne ihr Andenken in allen kommenden Zeiten!</p>
+<pb n="0171" facs="0189"/></div>
 <div type = "chapter">
 <head>Die Familie „Valette".</head>
-<pb n="0172" pdf="0190"/>
+<pb n="0172" facs="0190"/>
 
 <pb n="0173"/>
 <p>Meine Erzieherin, Fräulein Josse, sorgte ein bißchen
@@ -4928,14 +4915,14 @@ vor</p>
 <div n="__" type="chapter"><head>Sohn</head>
 <pb n="0184"/>
 <pb n="0185"/>
-<p>Denn Herzensgüte, erleuchtete Herzensgüte, diese allerhöchste menschliche Eigenschaft, 
-=======
-<pb n="183" pdf="201"/></div>
+<p>Denn Herzensgüte, erleuchtete Herzensgüte, diese allerhöchste menschliche Eigenschaft, </p>
+
+<pb n="183" facs="201"/></div>
 <div type = "chapter">
 <head>Sohn</head>
-<pb n="184" pdf="202"/>
-<pb n="185" pdf="203"/>
-Denn Herzensgüte, erleuchtete Herzensgüte, diese allerhöchste menschliche Eigenschaft, 
+<pb n="184" facs="202"/>
+<pb n="185" facs="203"/>
+<p>Denn Herzensgüte, erleuchtete Herzensgüte, diese allerhöchste menschliche Eigenschaft, 
 je ein Antlitz verklärt hat, so war es dasjenige des uns so teureren Freundes, des 
 Malers Carl Sohn aus Düsseldorf.
 </p><p>
@@ -5224,14 +5211,14 @@ schöner und das Leben reich!</p>
 <pb n="0200"/>
 <pb n="0201"/>
 <p>In früherer Zeit nahm man an Höfen nur Damen als Kammerfrauen und Kinderfrauen. Und man 
-=======
-schöner und das Leben reich!
-<pb n="199" pdf="217"/></div>
+
+schöner und das Leben reich!</p>
+<pb n="199" facs="217"/></div>
 <div type = "chapter">
 <head>Weizchen</head>
-<pb n="200" pdf="218"/>
-<pb n="201" pdf="219"/>
-In früherer Zeit nahm man an Höfen nur Damen als Kammerfrauen und Kinderfrauen. Und man 
+<pb n="200" facs="218"/>
+<pb n="201" facs="219"/>
+<p>In früherer Zeit nahm man an Höfen nur Damen als Kammerfrauen und Kinderfrauen. Und man 
 tat wohl daran, denn man war der äußersten Diskretion bedürftig, und die Kinder lernten 
 früh an die guten Manieren, die ihnen so notwendig waren und so geläufig sein sollten wie 
 das tägliche Brot. So war es die Schwester des nachmaligen Generals Weiz, die Kinderfrau 
@@ -5608,15 +5595,15 @@ Kräfte früher zu verzehren als es sonst wohl der Fall gewesen wäre.</p>
 
 <pb n="0219"/>
 <p>Diese edle Seele trat als Hülfe in mein Leben, als es sehr dunkel und sehr schwer wurde. 
-=======
-Kräfte früher zu verzehren als es sonst wohl der Fall gewesen wäre.
+
+Kräfte früher zu verzehren als es sonst wohl der Fall gewesen wäre.</p>
 </div>
 <div type = "chapter">  
-<pb n="217" pdf="235"/>
+<pb n="217" facs="235"/>
 <head>Frau Baring</head>
-<pb n="218" pdf="236"/> 
-<pb n="219" pdf="237"/>
-Diese edle Seele trat als Hülfe in mein Leben, als es sehr dunkel und sehr schwer wurde. 
+<pb n="218" facs="236"/> 
+<pb n="219" facs="237"/>
+<p>Diese edle Seele trat als Hülfe in mein Leben, als es sehr dunkel und sehr schwer wurde. 
 Denn die Krankheit im Hause nahm zu, die Winter waren lang und hart, und ich war sehr 
 jung, um so viel auf den Schultern zu haben. Einen Winter lang war ich wirklich die 
 einzig Gesunde im Hause, sechs Kranke besuchte ich abwechselnd. Vater, Mutter zu Bett, 
@@ -6036,19 +6023,12 @@ und von längst vergangenen</p>
 <div n="__" type="chapter"><head>Frau Wahler</head>
 <pb n="0240"/>
 
-
-
-
-
- 
-=======
-und von längst vergangenen
-<pb n="238" pdf="256"/></div>
+<pb n="238" facs="256"/></div>
 <div type = "chapter">
 
-    <pb n="239" pdf="257"/>
+    <pb n="239" facs="257"/>
 <head>Frau Wahler</head>
-    <pb n="240" pdf="258"/>
+    <pb n="240" facs="258"/>
 <pb n="0241"/>
 <p>Unter dem Titel „Deutsches Glück" und mit verändertem Namen habe ich die liebe Alte 
 selbst sprechen lassen und schreibe hier das noch einmal ab, da ein treues Porträt mit 
@@ -6334,13 +6314,11 @@ Abendwind leise über den Rhein hinkräuselte. </p>
 </div>
 <div n="__" type="chapter"><head>Meine Lehrer</head>
 <pb n="0256"/>
-=======
-Abendwind leise über den Rhein hinkräuselte. 
-<pb n="254" pdf="272"/></div>
+<pb n="254" facs="272"/></div>
 <div type = "chapter">
-    <pb n="255" pdf="273"/>
+    <pb n="255" facs="273"/>
 <head>Meine Lehrer</head>
-<pb n="256" pdf="274"/>
+<pb n="256" facs="274"/>
 
 <pb n="0257"/>
 <p>Von meinem zwölften Jahre an gab mich meine Muter fast ganz in männliche Hände, da sie 
@@ -6902,13 +6880,13 @@ begreift.</p>
 </div>
 <div n="__" type="chapter"><head>Marie</head>
 <pb n="0284"/>
-=======
-begreift.
-<pb n="282" pdf="300"/></div>
+
+
+<pb n="282" facs="300"/></div>
 <div type = "chapter">
-    <pb n="283" pdf="301"/>
+    <pb n="283" facs="301"/>
 <head>Marie</head>
-<pb n="284" pdf="302"/>
+<pb n="284" facs="302"/>
 
 <pb n="0285"/>
 <p>Wenn ich den geliebten Namen ausspreche, so füllt sich mein Herz immer noch mit Tränen, 
@@ -7173,15 +7151,15 @@ angehörte!</p>
 <div n="__" type="chapter"><head>Frau Bachenberg</head>
 <pb n="0298"/>
 <pb n="0299"/>
-<p>Sie war nahezu vierzig Jahre lang die Vorsitzende des Frauenvereins für Krankenpflege in 
-=======
-angehörte!</div>
+<p>Sie war nahezu vierzig Jahre lang die Vorsitzende des Frauenvereins für Krankenpflege in </p>
+
+</div>
 <div type ="chapter">
-    <pb n="297" pdf="315"/>
+    <pb n="297" facs="315"/>
 <head>Frau Bachenberg</head>
-<pb n="298" pdf="316"/>
-<pb n="299" pdf="317"/>
-Sie war nahezu vierzig Jahre lang die Vorsitzende des Frauenvereins für Krankenpflege in 
+<pb n="298" facs="316"/>
+<pb n="299" facs="317"/>
+<p>Sie war nahezu vierzig Jahre lang die Vorsitzende des Frauenvereins für Krankenpflege in 
 Neuwied. Sie war der Inbegriff werktätiger Nächstenliebe. Sie war diejenige, die nächst 
 meiner Mutter mich alles lehrte, was ich an Wohltätigkeitseinrichtungen in der Jugend 
 erlernte, und wie praktisch sie war, wie fest sie alles auffasste, dass ich sie von klein 
@@ -7413,15 +7391,14 @@ wir uns so lieb haben, als wäre nicht ein Tag vergangen!</p>
 <pb n="0310"/>
 
 <pb n="0311"/>
-<p>Freitag, den 22. November 2850, trat das ängstlich erwartete Kleinod in diese 
-=======
-wir uns so lieb haben, als wäre nicht ein Tag vergangen!</div>
+<p>Freitag, den 22. November 2850, trat das ängstlich erwartete Kleinod in diese</p>
+</div>
 <div type = "chapter">
-<pb n="309" pdf="327"/>
+<pb n="309" facs="327"/>
 <head>Mein Bruder Otto</head>
-<pb n="310" pdf="328"/>
-<pb n="311" pdf="329"/>
-Freitag, den 22. November 2850, trat das ängstlich erwartete Kleinod in diese 
+<pb n="310" facs="328"/>
+<pb n="311" facs="329"/>
+<p>Freitag, den 22. November 2850, trat das ängstlich erwartete Kleinod in diese 
 Schmerzenstal ein. Es war ein unvergesslicher Tag für alle, die damals zugegen waren. 
 Schon seit einiger Zeit hatte man wenig Hoffnung, dass das liebe Kind lebend zur Welt 
 käme. Darum war nach so vielen Stunden schwersten Leidens und äußerster Gefahr die 
@@ -8416,8 +8393,7 @@ Möge es Dir erspart werden, solche Erfahrungen zu machen, und möge Dir der Him
 Sohn schenken, der unserm heimgegangenen Kinde an Geist ähnlich sei, jedoch ohne die 
 traurige Zugabe eines kranken Körpers!</p>
 </div>
-=======
-traurige Zugabe eines kranken Körpers!</div>
+</div>
 </body>
 </text>
 </TEI>
